@@ -45,7 +45,7 @@ This pipeline uses the **MIMIC-III dataset** (10,000 patients sample).
 ##  Running the Pipeline
 
 
-# 🚀 Running the Pipeline
+# Running the Pipeline
 
 You can execute the full training–pruning–distillation pipeline in **two ways**:
 
@@ -60,7 +60,7 @@ run.bat [conda_env] [A|B|C]
 - `conda_env`: Name of your Conda environment (e.g., `hsj_env`)
 - `A`, `B`, or `C`: Pipeline variant to run (see below)
 
-> ⚠️ **Important:** Always run this inside an **Anaconda Prompt**, not a regular CMD window.
+> **Important:** Always run this inside an **Anaconda Prompt**, not a regular CMD window.
 
 ---
 
